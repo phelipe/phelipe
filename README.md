@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin: phelipe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/phelipew-oliveira/)
+[![GitHub phelipe](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/phelipe)
+
+
 
 **phelipe/phelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +20,3 @@ Here are some ideas to get you started:
 
 
 <script src="https://gist.github.com/phelipe/3041daf13361d58ef6f9475ba2c6ca47.js"></script>
-![https://gist.github.com/phelipe/3041daf13361d58ef6f9475ba2c6ca47.js](https://gist.github.com/phelipe/3041daf13361d58ef6f9475ba2c6ca47.js)
