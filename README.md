@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-[![Anurag's GitHub stats](https://gist.github.com/phelipe/3041daf13361d58ef6f9475ba2c6ca47.js)](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://gist.github.com/phelipe/3041daf13361d58ef6f9475ba2c6ca47.js"></script>
+<figure>
+  <img src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/4ba05dca-d401-4798-bfea-d23cf0cab508.png" />
+</figure>
