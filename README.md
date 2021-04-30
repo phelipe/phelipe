@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin: phelipe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/phelipew-oliveira/)
+[![Linkedin: phelipe](https://img.shields.io/badge/-phelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
 [![GitHub phelipe](https://img.shields.io/github/followers/phelipe?label=follow&style=social)](https://github.com/phelipe)
 
 
