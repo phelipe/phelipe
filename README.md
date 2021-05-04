@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <figure>
   <img src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/4ba05dca-d401-4798-bfea-d23cf0cab508.png" />
 </figure>
+
+![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/4ba05dca-d401-4798-bfea-d23cf0cab508.png)
