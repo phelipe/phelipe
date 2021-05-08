@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 </figure>
 
 ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/4ba05dca-d401-4798-bfea-d23cf0cab508.png)
+
+
+<figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/3e935714-cc7b-4346-8560-c9476a133494.svg"></embed></figure>
+
+![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/3e935714-cc7b-4346-8560-c9476a133494.svg)
