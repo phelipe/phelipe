@@ -18,39 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<figure align="right" width="200" height="183" ><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+<img align="right" width="200" height="183" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></img>
 
 
-<table style="width: 100% !important">
-  <tr>
-    <td valign="top" width="50%">
-      testando
-    </td>
-    <td valign="top" width="50%">
-      testano 2
-    </td> 
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <figure ><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
-    </td>
-    <td valign="top" width="50%">
-      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
-    </td> 
-  </tr>
-
-</table>
-
-<table style="width:100%">
-  <tr>
-    <th>
-       ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg)
-    </th>
-    <th>
-       ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg)
-    </th> 
-  </tr>
-</table>
 
 
 ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg)
