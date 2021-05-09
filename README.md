@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
   <tr>
-    <th style="width:50%">
+    <td style="width:50%">
       testando
-    </th>
-    <th style="width:50%">
+    </td>
+    <td style="width:50%">
       testano 2
-    </th> 
-  </tr>
-    <tr>
-    <th>
+    </td> 
+  </td>
+    <td>
+    <td>
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
-    </th>
-    <th>
+    </td>
+    <td>
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
-    </th> 
+    </td> 
   </tr>
 
 </table>
