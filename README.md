@@ -21,15 +21,23 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <th>
+      testando
+    </th>
+    <th>
+      testano 2
+    </th> 
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th>
        ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg)
     </th>
     <th>
        ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg)
     </th> 
   </tr>
-</table>
-
-<table style="width:100%">
   <tr>
     <th>
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
