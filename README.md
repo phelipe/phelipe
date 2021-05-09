@@ -28,7 +28,4 @@ Here are some ideas to get you started:
 
 ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg)
 
-<figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/3e935714-cc7b-4346-8560-c9476a133494.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/06cf294c-8143-490b-8182-fdc977dc028a.svg"></embed></figure>
+![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg)
