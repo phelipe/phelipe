@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<figure align="right" width="200" height="183" ><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+
+
 <table style="width: 100% !important">
   <tr>
     <td valign="top" width="50%">
@@ -29,7 +32,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+      <figure ><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
     </td>
     <td valign="top" width="50%">
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
