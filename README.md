@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img align="right" width="50%" height="auto" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></img>
+<img align="left" width="50%" height="auto" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg"></img>
 
 
 
 
-![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/02a1e21d-b1cc-4f92-8684-a6c20a8ffc53.svg)
-
-![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg)
