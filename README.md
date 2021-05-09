@@ -27,6 +27,15 @@ Here are some ideas to get you started:
       testano 2
     </th> 
   </tr>
+    <tr>
+    <th>
+      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+    </th>
+    <th>
+      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+    </th> 
+  </tr>
+
 </table>
 
 <table style="width:100%">
@@ -36,14 +45,6 @@ Here are some ideas to get you started:
     </th>
     <th>
        ![teste](https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg)
-    </th> 
-  </tr>
-  <tr>
-    <th>
-      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
-    </th>
-    <th>
-      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
     </th> 
   </tr>
 </table>
