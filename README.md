@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>
+      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+    </th>
+    <th>
+      <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
+    </th> 
   </tr>
 </table>
 
