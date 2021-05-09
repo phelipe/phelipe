@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table style="width:100%">
+<table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50>
       testando
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       testano 2
     </td> 
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <figure><embed src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></embed></figure>
     </td> 
   </tr>
