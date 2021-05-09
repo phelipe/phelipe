@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<table>
+<table style="width: 100% !important">
   <tr>
-    <td valign="top" width="50>
+    <td valign="top" width="50%">
       testando
     </td>
     <td valign="top" width="50%">
