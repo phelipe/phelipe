@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="right" width="200" height="183" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></img>
+<img align="right" width="50%" height="auto" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></img>
 
 
 
