@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <table style="width:100%">
   <tr>
-    <th>
+    <th style="width:50%">
       testando
     </th>
-    <th>
+    <th style="width:50%">
       testano 2
     </th> 
   </tr>
