@@ -4,6 +4,7 @@
 [![Linkedin: phelipe](https://img.shields.io/badge/-Gitlab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
 [![Linkedin: phelipe](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=pointy&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
 [![GitHub phelipe](https://img.shields.io/github/followers/phelipe?label=follow&style=social)](https://github.com/phelipe)
+![](https://komarev.com/ghpvc/?username=phelipe&color=blue&style=flat)
 
 
 
