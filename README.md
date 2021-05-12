@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin: phelipe](https://img.shields.io/badge/-phelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
-[![Gitlab phelipe](https://img.shields.io/badge/-phelipe?style=social&logo=appveyor&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
+[![Gitlab phelipe](https://img.shields.io/badge/-phelipe?style=social&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
 
 [![GitHub phelipe](https://img.shields.io/github/followers/phelipe?label=follow&style=social)](https://github.com/phelipe)
 [![Lattes Badge](https://img.shields.io/badge/%20-Lattes-yellow?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/9004653414242192)](http://lattes.cnpq.br/9004653414242192)
