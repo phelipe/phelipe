@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Linkedin: phelipe](https://img.shields.io/badge/-phelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
 [![Gitlab: phelipe](https://img.shields.io/badge/-Gitlab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/phelipe/)](https://gitlab.com/phelipe)
