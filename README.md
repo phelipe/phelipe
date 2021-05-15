@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![Linkedin: phelipe](https://img.shields.io/badge/-phelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
-[![Linkedin: phelipe](https://img.shields.io/badge/-Gitlab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
-[![Linkedin: phelipe](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=pointy&logoColor=white&link=https://www.linkedin.com/in/phelipew-oliveira/)](https://www.linkedin.com/in/phelipew-oliveira/)
+[![Gitlab: phelipe](https://img.shields.io/badge/-Gitlab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/phelipe/)](https://gitlab.com/phelipe)
+[![Lattes: phelipe](https://img.shields.io/badge/-Lattes-yellow?style=flat-square&logo=pointy&logoColor=white&link=http://lattes.cnpq.br/0855415672732784)](http://lattes.cnpq.br/0855415672732784)
 [![GitHub phelipe](https://img.shields.io/github/followers/phelipe?label=follow&style=social)](https://github.com/phelipe)
 ![](https://komarev.com/ghpvc/?username=phelipe&color=blue&style=flat)
 
