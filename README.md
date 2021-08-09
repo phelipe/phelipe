@@ -6,7 +6,10 @@
 ![](https://komarev.com/ghpvc/?username=phelipe&color=blue&style=flat)
 
 
-Developer, researcher and DevOps enthusiast. I have been working as a developer and free software colaborator for 8 years. 
+Developer, researcher and DevOps enthusiast. 
+
+<!-- I have been working as a developer and free software colaborator for 8 years. 
 
 <img align="right" width="60%" height="auto" src="https://wakatime.com/share/@06979e6f-62de-40a1-be04-e34f86f93ffe/529a9008-abf4-4461-ab30-3d1e4b8488fb.svg"></img>
 You can see what I worked with this week
+ -->
