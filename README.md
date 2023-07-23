@@ -1,6 +1,5 @@
 [![Gitlab: phelipe](https://img.shields.io/badge/-Gitlab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/phelipe/)](https://gitlab.com/phelipe)
 [![GitHub phelipe](https://img.shields.io/github/followers/phelipe?label=follow&style=social)](https://github.com/phelipe)
-![](https://komarev.com/ghpvc/?username=phelipe&color=blue&style=flat)
 
 Hi there! 👋🏽
 
