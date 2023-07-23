@@ -26,7 +26,7 @@ I am currently working on a flutter mobile app to raise funds for stray animals
 
 ## Current Stack 🧑🏾‍💻
 
-- Programing: Rust, GO, Node, Dart, Lua
+- Programing: Rust, GO, javascript, Dart, Lua
 - Server Technologies: GraphQL, gRPC
 - Front-end: React, HTML, CSS
 - Mobile: Flutter, React Native
