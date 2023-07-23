@@ -9,7 +9,7 @@ I would say that I am a developer and researcher. I solve problems using math, l
 ### Personal stuff:
 
 - 😄 Pronouns: **He/His**
-- 👩🏽‍💻 I am a full stack software engineer, having some experience in devops and mobile development
+- 🧑🏾‍💻 I am a full stack software engineer, having some experience in devops and mobile development
 - 🔭 I’m currently working as a senior software engineer
 - 👯 I’m looking to collaborate on projects written in Rust
 - 👩🏽‍🎓 I have a Ph.D. in Teleinformatics Engineering, my research topics are robotics, control, optimization, and machine learning.
@@ -24,7 +24,7 @@ I would say that I am a developer and researcher. I solve problems using math, l
 
 I am currently working on a flutter mobile app to raise funds for stray animals
 
-## Current Stack 👩🏽‍💻
+## Current Stack 🧑🏾‍💻
 
 - Programing: Rust, GO, Node, Dart, Lua
 - Server Technologies: GraphQL, gRPC
