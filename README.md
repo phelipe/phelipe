@@ -12,7 +12,7 @@ I would say that I am a developer and researcher. I solve problems using math, l
 - 🧑🏾‍💻 I am a full stack software engineer, having some experience in devops and mobile development
 - 🔭 I’m currently working as a senior software engineer
 - 👯 I’m looking to collaborate on projects written in Rust
-- 👩🏽‍🎓 I have a Ph.D. in Teleinformatics Engineering, my research topics are robotics, control, optimization, and machine learning.
+- 👨🏾‍🎓 I have a Ph.D. in Teleinformatics Engineering, my research topics are robotics, control, optimization, and machine learning.
 - 📖 I'm interested in robotics, low level programing, compilers, IA and math.
 
 ### Where to find me 📬:
